@@ -1,0 +1,12 @@
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\bin\Debug\net6.0\HardwareChange.deps.json
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\bin\Debug\net6.0\HardwareChange.dll
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\bin\Debug\net6.0\HardwareChange.pdb
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\obj\Debug\net6.0\HardwareChange.csproj.AssemblyReference.cache
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\obj\Debug\net6.0\HardwareChange.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\obj\Debug\net6.0\HardwareChange.AssemblyInfoInputs.cache
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\obj\Debug\net6.0\HardwareChange.AssemblyInfo.cs
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\obj\Debug\net6.0\HardwareChange.csproj.CoreCompileInputs.cache
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\obj\Debug\net6.0\HardwareChange.dll
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\obj\Debug\net6.0\refint\HardwareChange.dll
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\obj\Debug\net6.0\HardwareChange.pdb
+F:\Shaghayegh\Uni\term8\system\Test\HardwareChange\obj\Debug\net6.0\ref\HardwareChange.dll
