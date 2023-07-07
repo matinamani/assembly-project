@@ -12,9 +12,9 @@ namespace MyApi.Controllers
         {
             Main = new Main();
         }
-        
-        [HttpGet("/[controller]/[action]")]
-        public IActionResult MakeBeepSound(int duration)
+
+        [HttpGet("/[action]")]
+        public IActionResult MakeBeepSound(int duration = 1)
         {
             Main.MakeBeepSound(duration * 1000);
             return Ok($"Beep sound with duration: {duration}s created.");
